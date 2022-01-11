@@ -1,6 +1,6 @@
 module.exports = {
   HOST: "mysql.vhslot.com",
-  USER: "root",
+  USER: "vhslotcom1",
   PASSWORD: "K7p*?vX^",
   DB: "vhslot_com",
   dialect: "mysql",
